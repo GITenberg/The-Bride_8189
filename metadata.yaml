@@ -1,5 +1,5 @@
 _repo: The-Bride_8189
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Potter, Alfred Claghorn
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '6084'
     url: http://www.gutenberg.org/2009/agents/6084
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rowlands, Samuel
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2688
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rowlands
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8189#The-Bride
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
